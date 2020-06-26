@@ -1,0 +1,9 @@
+<idea-plugin>
+  <id>com.maurriciord.idea</id>
+  <name>Omni Theme</name>
+  <vendor email="mauriciorrd@me.com" url="https://getomni.dev.com/">Omni Theme</vendor>
+  <depends>com.intellij.modules.lang</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="371dce76-a3c5-4429-91af-41cf86094744" path="/themes/Omni.theme.json"/>
+  </extensions>
+</idea-plugin>
